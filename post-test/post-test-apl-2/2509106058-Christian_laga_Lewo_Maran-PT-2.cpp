@@ -10,7 +10,7 @@ struct Login {
 struct Tim {
     string nama;
     string deskripsi;
-    string prestasi;
+    string prestasi
     string pemain;
     string staff;
 };
